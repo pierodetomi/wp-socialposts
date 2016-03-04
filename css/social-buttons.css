@@ -1,0 +1,27 @@
+.wp-socialposts-buttons {
+   display: block;
+   height: 45px;
+}
+
+.gplus-button {
+   float: left;
+   margin-right: 6px;
+}
+
+.fb-button {
+   float: left;
+   margin-right: 8px;
+}
+
+.linkedin-button {
+   float: left;
+   margin-right: 6px;
+}
+
+.twitter-button {
+   float: left;
+}
+
+.IN-widget .IN-right {
+   top: -6px;
+}
